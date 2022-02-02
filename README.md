@@ -1,3 +1,7 @@
+Requisiti: SpringBoot,Tomcat
+
+Progetto universitario effettuato in gruppo
+
 Account già creati per effettuare login
 
      (admin) Email: francescoreda02@gmail.com   pass: ciaociao
